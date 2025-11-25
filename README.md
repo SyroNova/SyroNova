@@ -2,6 +2,15 @@
 
 I'm a Applicant of Cientific Data. I'm studing Systems and Computer Engineering at Universidad Pontificia Bolivariana.
 
+### Skills
+- Python Avazado
+- Flutter Intermedio
+- Javascript Intermedio
+- SQL Intermedio
+- MongoDB Intermedio
+- Pandas Avanzado
+- Sci-kit learn Intermedio
+
 <!--
 **SyroNova/SyroNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
