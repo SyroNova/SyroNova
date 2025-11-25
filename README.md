@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Applicant of Cientific Data. I'm studing Systems and Computer Engineering at Universidad Pontificia Bolivariana.
+
 <!--
 **SyroNova/SyroNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
