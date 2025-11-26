@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-I'm a Applicant of Cientific Data. I'm studing Systems and Computer Engineering at Universidad Pontificia Bolivariana.
+👋 Hi, I'm Juan Felipe
+💻 Aspiring Data Scientist & Systems and Informatics Engineering Student
+📊 Passionate about data analysis, machine learning, and technology applied to decision-making.
+
+🛠️ Skills: Python | SQL | R | Machine Learning | Git | MongoDB
+🤝 Soft Skills: Critical thinking, continuous learning, and teamwork
+
+🚀 Constantly learning and building projects that combine data, innovation, and real-world solutions.
 
 ### Skills
 - Python Avazado
